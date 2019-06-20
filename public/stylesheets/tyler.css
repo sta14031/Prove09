@@ -1,0 +1,25 @@
+body {
+    background-color: #aac;
+    color: #224;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+div {
+    border: 2px solid #224;
+    padding: 10px;
+    margin: 10px;
+}
+
+form * {
+    margin: 3px;
+    text-align: right;
+}
+
+form .center {
+    text-align: center;
+}
+
+td {
+    border: 1px solid #224;
+    padding: 5px;
+}
